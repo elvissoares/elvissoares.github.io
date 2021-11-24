@@ -11,30 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physics, Federal University of Rio de Janeiro, Jan/2008-Dec/2011
+* Ph.D in Physics, Federal University of Rio de Janeiro, Feb/2012-May/2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan/2020-now: Postdoctoral Researcher
+  * ATOMS/UFRJ
+  * Development of classical Density Functional Theory to describe simple fluids, electrolyte solutions and colloidal systems.
+  * Supervisor: Prof. Frederico Tavares and Prof. Amaro Barreto
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun/2017-Dec/2019: Scientific Research Assistant
+  * NIDF/UFRJ
+  * Manager and Scientific Researcher responsible for the Inorganic Scaling project.
+  * Supervisor: Prof. Juliana Loureiro
+
+* Aug/2017-Dec/2018: Temporary Lecturer
+  * IF/UFRJ
+  * Physics II: Vibrations, Waves, Fluids and Thermodynamics
+  * Physics III: Electromagnetism
+
+* Aug/2013-Dec/2014: Temporary Lecturer
+  * IF/UFRJ
+  * Physics I: Mechanics
+  * Physics II: Vibrations, Waves, Fluids and Thermodynamics
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Scientific Computing 
+* Python
+* C, C++
+* Mathematica
 
 Publications
 ======
@@ -54,6 +61,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
