@@ -135,6 +135,12 @@ for pubsource in publist:
                     md += "\npaperurl: '" + b["url"] + "'"
                     url = True
 
+            file = False
+            if "file" in b.keys():
+                if len(str(b["file"])) > 5:
+                    md += "\nexcerpt: '" + html_escape(b["file"]) + "'"
+                    file = True
+
             md += "\ncitation: '" + html_escape(citation) + "'"
 
             md += "\n---"
@@ -144,8 +150,8 @@ for pubsource in publist:
             if note:
                 md += "\n" + html_escape(b["note"]) + "\n"
 
-            if url:
-                md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
+            if file:
+                md += "\n[Access paper here](" + b["file"] + "){:target=\"_blank\"}\n" 
             else:
                 md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
 

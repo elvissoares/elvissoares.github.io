@@ -5,6 +5,7 @@ permalink: /publication/2021-10-01-Exploring-the-multiple-solutions-of-the-class
 date: 2021-10-01
 venue: 'Adsorption'
 paperurl: 'https://link.springer.com/10.1007/s10450-021-00327-7'
+excerpt: 'https://github.com/elvissoares/elvissoares.github.io/blob/master/files/Sermound2021.pdf'
 citation: ' V. Sermoud,  G. Barbosa,  E. Soares,  A. Barreto,  F. Tavares, &quot;Exploring the multiple solutions of the classical density functional theory using metadynamics based method.&quot; Adsorption, 2021.'
 ---
-[Access paper here](https://link.springer.com/10.1007/s10450-021-00327-7){:target="_blank"}
+[Access paper here](https://github.com/elvissoares/elvissoares.github.io/blob/master/files/Sermound2021.pdf){:target="_blank"}
