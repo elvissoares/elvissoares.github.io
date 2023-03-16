@@ -15,6 +15,9 @@
 # TODO: Make this work with other databases of citations, 
 # TODO: Merge this with the existing TSV parsing solution
 
+# Add the github file path to the file variable on .bib file
+# Example: https://github.com/elvissoares/elvissoares.github.io/tree/master/files
+
 
 from pybtex.database.input import bibtex
 import pybtex.database.input.bibtex 
@@ -138,8 +141,13 @@ for pubsource in publist:
             file = False
             if "file" in b.keys():
                 if len(str(b["file"])) > 5:
-                    md += "\nexcerpt: '" + html_escape(b["file"]) + "'"
+                    # md += "\nexcerpt: '" + html_escape(b["file"]) + "'"
                     file = True
+
+            abstract = False
+            if "abstract" in b.keys():
+                if len(str(b["abstract"])) > 5:
+                    abstract = True
 
             md += "\ncitation: '" + html_escape(citation) + "'"
 
@@ -149,6 +157,9 @@ for pubsource in publist:
             ## Markdown description for individual page
             if note:
                 md += "\n" + html_escape(b["note"]) + "\n"
+
+            if abstract:
+                 md += "\nAbstract\n---\n" + html_escape(b["abstract"]) + "\n"
 
             if file:
                 md += "\n[Access paper here](" + b["file"] + "){:target=\"_blank\"}\n" 
