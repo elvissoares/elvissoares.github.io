@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 32-years-old physicist living at Rio de Janeiro, Brazil. Currently, I'm working as a PostDoctoral Researcher @ [ATOMS](http://atoms.peq.coppe.ufrj.br/en/index.html) group. I received my Ph.D. degree in Physics at Federal University of Rio de Janeiro under the supervision of Dr. J.R.T. de Mello Neto and Dr. Takeshi Kodama. My broad research interests include Liquid Theory, Electrolytes, Colloid, Pattern Formation, and Inhomogeneous Systems. 
+I'm a 33-years-old physicist living at Rio de Janeiro, Brazil. Currently, I'm working as a PostDoctoral Researcher @ [ATOMS](http://atoms.peq.coppe.ufrj.br/en/index.html) group. I received my Ph.D. degree in Physics at Federal University of Rio de Janeiro under the supervision of Prof. J.R.T. de Mello Neto and prof. Takeshi Kodama. My broad research interests include Statistical Physics of Complex Systems including Liquid Theory, Electrolytes, Colloid, Pattern Formation, and Inhomogeneous Systems. 
 
 <!-- Currently, I am looking for research positions in data visualization and applied machine learning.[stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
