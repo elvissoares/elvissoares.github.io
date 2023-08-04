@@ -5,7 +5,7 @@ permalink: /publication/2023-11-01-Classical-density-functional-theory-reveals-s
 date: 2023-11-01
 venue: 'Fluid Phase Equilibria'
 paperurl: 'https://linkinghub.elsevier.com/retrieve/pii/S037838122300167X'
-citation: ' Elvis {do A. Soares},  Amaro Barreto,  Frederico Tavares, &quot;Classical density functional theory reveals structural information of H2 and CH4 fluids adsorbed in MOF-5.&quot; Fluid Phase Equilibria, 2023.'
+citation: ' Elvis Soares,  Amaro Barreto,  Frederico Tavares, &quot;Classical density functional theory reveals structural information of H2 and CH4 fluids adsorbed in MOF-5.&quot; Fluid Phase Equilibria, 2023.'
 ---
 Abstract
 ---
