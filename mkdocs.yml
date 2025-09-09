@@ -3,7 +3,7 @@ site_description: Research & teaching in molecular engineering, soft matter, sim
 site_url: https://elvissoares.github.io
 # repo_url: https://github.com/elvissoares/<repo-name>
 theme:
-  name: lux
+  name: slate
   language: pt
   palette:
     - scheme: slate           # dark mode
