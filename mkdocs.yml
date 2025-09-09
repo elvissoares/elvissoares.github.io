@@ -1,9 +1,9 @@
 site_name: Elvis Soares
 site_description: Research & teaching in molecular engineering, soft matter, simulations
-# site_url: https://elvissoares.github.io/<repo-name>/
+site_url: https://elvissoares.github.io
 # repo_url: https://github.com/elvissoares/<repo-name>
 theme:
-  name: material
+  name: lux
   language: pt
   palette:
     - scheme: slate           # dark mode
@@ -34,7 +34,7 @@ nav:
 
 plugins:
   - search
-  - blog: {}        # blog plugin built into Material
+  #- blog: {}        # blog plugin built into Material
   # (optional) BibTeX citations for the Publications page:
   # - bibtex:
   #     bib_file: refs.bib
@@ -52,4 +52,4 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/elvissoares
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/<your-handle>/
+      link: https://www.linkedin.com/in/elvisoares/
