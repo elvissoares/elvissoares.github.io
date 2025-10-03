@@ -2,31 +2,26 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Elvis do A. Soares
     - name: Date of Birth
-      value: 14th March 1879
+      value: 06th July 1990
     - name: Languages
-      value: English, German
+      value: Portuguese, English, Spanish
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Physics
+      institution: Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil
+      year: 2017
       description:
         - Description 1.
         - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: BSc in Physics
+      institution: Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil
+      year: 2011
       description:
         - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
